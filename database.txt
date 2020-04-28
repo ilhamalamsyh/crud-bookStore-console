@@ -1,0 +1,10 @@
+fiersabesari_2012_1,2012,fiersabesari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar Python
+fandot_2020_5,2020,fandot,gramedia,Belajar Machine Learning
+IlhamAlamsyah_2020_1,2020,Ilham Alamsyah,Kompas,Learn Java
+Ilfa_2017_1,2017,Ilfa,Komaps,Data Scientist
+MikasaAckerman_2020_1,2020,Mikasa Ackerman,gramedia,Attack on Titan
+IlhamAlamsyah_2020_2,2020,Ilham Alamsyah,kompas,Harry Poter
+MikasaAckerman_2020_2,2020,Mikasa Ackerman,kompas,Sejarah Titan
